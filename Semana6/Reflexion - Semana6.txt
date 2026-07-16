@@ -1,0 +1,15 @@
+Cuando un ciudadano reporta un problema en su comunidad desde una farola rota hasta un caso de contaminación, 
+la forma en que la plataforma tecnológica recibe esa información lo cambia todo.
+Si el reporte llega como un texto libre y desestructurado (por ejemplo, un correo electrónico largo o 
+un mensaje de voz), procesarlo a escala es una pesadilla logística. 
+En cambio, cuando los datos se reciben de forma estructurada 
+(organizados en campos específicos como categoría, coordenadas GPS, fecha y nivel de prioridad),
+la magia de la automatización y la eficiencia pública empieza a funcionar.
+
+Clasificación y asignación automática (Adiós al trabajo manual)
+En lugar de tener a una persona leyendo miles de reportes individuales 
+para adivinar a qué departamento enviarlos, 
+las plataformas pueden usar reglas automáticas. 
+si el ciudadano selecciona la categoría Fuga de agua e introduce una ubicación estructurada, 
+el sistema puede enviar el reporte directamente al equipo de acueducto de esa zona en cuestión de segundos, 
+reduciendo drásticamente los tiempos de respuesta.

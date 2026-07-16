@@ -1,0 +1,7 @@
+Esta ruta crea un endpoint POST llamado /reporte. Cuando un usuario envía una solicitud a esta ruta, 
+el servidor recibe el dato llamado "mensaje" desde el cuerpo de la petición (req.body.mensaje).
+Luego responde con un objeto JSON indicando que el reporte fue recibido y devuelve el mensaje enviado por el usuario.
+
+En una aplicación comunitaria, esta ruta podría servir para que los ciudadanos reporten problemas o situaciones de interés, 
+como daños en vías, fallas en servicios públicos, problemas de seguridad o necesidades de la comunidad. 
+De esta manera, la información puede ser recopilada y gestionada para dar seguimiento a los reportes realizados.

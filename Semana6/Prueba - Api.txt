@@ -1,0 +1,17 @@
+Al enviar el siguiente JSON:
+
+{
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
+
+El servidor toma el valor del campo "mensaje" mediante req.body.mensaje. Como la ruta solo utiliza ese campo, el valor de "nombre" es ignorado y no aparece en la respuesta.
+
+La respuesta que devuelve el servidor es:
+
+{
+  "estado": "Reporte recibido",
+  "mensaje": "Hola comunidad"
+}
+
+Esto indica que el reporte fue recibido correctamente y muestra el mensaje enviado por el usuario.
