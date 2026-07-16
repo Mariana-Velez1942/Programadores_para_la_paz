@@ -1,0 +1,10 @@
+No exponer datos personales: Ocultar por defecto los datos sensibles de los usuarios (como correos, teléfonos o direcciones)
+para que no sean visibles públicamente en la plataforma comunitaria
+Proteger credenciales: Implementar políticas de contraseñas fuertes, almacenamiento seguro mediante hashing y promover el uso
+de autenticación en dos pasos (2FA).  
+Usar conexiones seguras: Obligar el uso de protocolos cifrados (HTTPS) para proteger la transferencia de datos entre los ciudadanos 
+y el servidor, evitando intercepciones.
+Registrar accesos: Mantener un historial o log de auditoría detallado sobre quién ingresa al sistema y qué acciones realiza dentro 
+de la plataforma administrativa.
+Limitar acceso a información sensible: Aplicar el principio de menor privilegio, asegurando que solo el personal estrictamente autorizado 
+y los departamentos correspondientes tengan acceso a los datos privados de los reportes.

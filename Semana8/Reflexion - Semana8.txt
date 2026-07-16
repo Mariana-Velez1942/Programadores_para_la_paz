@@ -1,0 +1,9 @@
+La seguridad digital en plataformas comunitarias es vital porque estas herramientas manejan datos sensibles de ciudadanos reales.
+Al proteger la infraestructura, se evita el robo de identidad, el acoso y la exposición pública de información privada de los usuarios.
+Además, un entorno seguro garantiza la integridad de los procesos participativos, impidiendo la manipulación de votos o reportes falsos.
+Cuando la comunidad confía en que su información está a salvo, la participación activa y la colaboración ciudadana aumentan considerablemente.
+Por el contrario, un solo hackeo o filtración de credenciales puede destruir por completo la reputación y credibilidad del proyecto.
+Asegurar la plataforma también protege los sistemas del gobierno local con los que este software interactúa mediante integraciones y APIs.
+Esto previene ataques de denegación de servicio que podrían dejar canales de denuncia inactivos en momentos de emergencias locales.
+Asimismo, permite que los reportes de infraestructura o fallas comunitarias sigan un flujo constante de resolución sin interrupciones maliciosas.
+En definitiva, la seguridad no es un aspecto secundario, sino el pilar fundamental que sostiene la confianza y la democracia digital.

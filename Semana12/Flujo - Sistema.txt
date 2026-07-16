@@ -1,0 +1,12 @@
+1.Registro de la causa (Clic 1):Inicio del caso.El ciudadano ingresa a la plataforma, llena el formulario con el título,
+descripción y ubicación de la problemática, y hace clic en "Crear Causa" para guardarla en la base de datos.
+2.Publicación y visibilidad:Proceso automático.El sistema publica de inmediato la causa en la interfaz pública de la plataforma, 
+organizándola en una tarjeta visual para que toda la comunidad del sector pueda verla y conocer el problema.
+3.Suma de apoyo vecinal (Clic 2):Respaldo comunitario.Otros ciudadanos de la zona ingresan a la plataforma, 
+leen el caso y hacen clic en "Apoyar Causa". El sistema valida su identidad para evitar duplicados y suma el apoyo al contador 
+en tiempo real.
+4.Generación del PDF formal (Clic 3):Creación del documento.Al alcanzar la meta de firmas o cuando el creador lo decida,
+este hace clic en "Generar Petición". El sistema recopila los datos del problema y el número de apoyos para crear un documento 
+PDF formal y estructurado.5.Radicación y veeduría:Acción ciudadana.
+Con el archivo PDF descargado, los coordinadores comunitarios pueden imprimirlo o enviarlo por canales oficiales a la entidad pública 
+competente, dejando soporte de la exigencia colectiva del barrio.

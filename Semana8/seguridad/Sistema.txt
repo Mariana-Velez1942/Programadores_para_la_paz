@@ -1,0 +1,19 @@
+
+
+¿Qué información muestra cada comando del sistema?
+Uso de recursos: Revelan el porcentaje de uso de la CPU, la memoria RAM consumida y disponible, y el espacio libre en los discos duros.
+
+Procesos activos: Muestran qué programas o servicios se están ejecutando, quién los inició y cuántos recursos del sistema consumen en tiempo real.
+
+Estado de la red: Permiten verificar puertos abiertos, conexiones activas, interfaces de red configuradas y el flujo de tráfico de datos.
+
+Información del núcleo y hardware: Detallan la versión exacta del sistema operativo (núcleo/kernel), la arquitectura y detalles del procesador.
+
+¿Por qué es útil conocer información del sistema cuando se administra un servidor?
+Prevención de caídas: Permite identificar cuellos de botella (como falta de RAM o CPU al 100%) antes de que el servidor colapse y deje de responder a los usuarios.
+
+Optimización de rendimiento: Ayuda a ajustar con precisión la configuración de tus servicios (como servidores web o bases de datos) según los recursos reales disponibles de la máquina.
+
+Seguridad y auditoría: Facilita la detección temprana de anomalías, como procesos desconocidos ejecutándose en segundo plano o conexiones externas sospechosas.
+
+Planificación de escalado: Proporciona datos reales e históricos para decidir con criterio cuándo es el momento de mejorar el hardware o migrar a una infraestructura superior.

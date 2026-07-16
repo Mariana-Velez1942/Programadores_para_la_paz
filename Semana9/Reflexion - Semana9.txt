@@ -1,0 +1,9 @@
+La estabilidad y seguridad de un servidor que aloja plataformas comunitarias es clave para garantizar la continuidad del servicio público.
+Si el servidor falla constantemente, los ciudadanos no podrán registrar incidentes urgentes, perdiendo la confianza en la herramienta digital.
+Una plataforma inestable desmotiva la participación, ya que las personas sentirán que sus quejas o propuestas caen en el vacío.
+Por otro lado, la seguridad en el servidor protege los datos personales de los vecinos contra accesos no autorizados o ciberataques.
+Esto evita que información sensible, como correos, teléfonos o ubicaciones exactas, sea filtrada y utilizada de forma maliciosa.
+Un servidor seguro también asegura la veracidad de los datos, impidiendo que terceros manipulen encuestas, votos o reportes comunitarios.
+Además, la estabilidad técnica permite que las autoridades locales reciban la información de manera ordenada, constante y en tiempo real.
+De este modo, la óptima administración del servidor se convierte en la base de la transparencia, la rendición de cuentas y la gestión urbana.
+En conclusión, un servidor robusto legitima los procesos participativos y fortalece la relación digital entre la comunidad y el gobierno local.

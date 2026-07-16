@@ -1,0 +1,15 @@
+
+1. ¿Qué 2 tareas del backlog harías primero?
+Tarea 1: El registro de incidentes por parte del ciudadano (Historias de Usuario).
+
+Tarea 2: La consulta y visualización de reportes para hacer seguimiento.
+
+2. ¿Por qué son las más importantes?
+Estas dos tareas constituyen el mínimo producto viable (MVP) de la plataforma. 
+Sin la capacidad de registrar un problema de forma estructurada, la base de datos no tendría información útil que procesar.
+ Asimismo, sin un canal para consultar o visualizar estos reportes, la comunidad no tendría transparencia ni forma de hacer veeduría.
+  Son el núcleo funcional sobre el cual se construyen todas las demás alertas y estadísticas.
+
+3. ¿Qué significa para ti que una tarea esté “terminada” (Definition of Done)?
+Para mí, una tarea está "terminada" cuando deja de ser solo código escrito en la computadora de desarrollo
+ y pasa a ser una funcionalidad real, segura y completamente integrada que el usuario final puede utilizar sin fallos.

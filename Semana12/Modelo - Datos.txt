@@ -1,0 +1,14 @@
+Entidad 1: Causa
+Campos: id (identificador único), titulo, descripcion y fecha (momento de creación).
+
+Para qué sirve: Es el registro principal de la problemática o iniciativa que un ciudadano quiere dar a conocer. 
+Almacena el "qué", "por qué" y "cuándo" del reporte, permitiendo que la situación sea visible para toda la comunidad
+ y sirva como el eje central sobre el cual se agruparán las interacciones vecinales.
+
+Entidad 2: Apoyo
+Campos: id (identificador único), causa_id (enlace o llave que conecta directamente con la Causa que se está respaldando), 
+nombre (del ciudadano que apoya) y fecha (momento en que votó).
+
+Para qué sirve: Registra de manera individual el respaldo que un miembro de la comunidad otorga a una causa específica. 
+Al vincularse con la entidad Causa a través de causa_id, permite al sistema contar los apoyos totales en tiempo real para 
+medir el impacto, la urgencia y el interés colectivo que despierta cada problemática.

@@ -1,0 +1,16 @@
+¿Qué evento activa el flujo (Trigger)?El flujo se activa cuando un ciudadano registra 
+un nuevo reporte de incidencia de forma exitosa en la base de datos de la plataforma 
+comunitaria.
+¿Qué mensaje se enviaría a Telegram?
+Mensaje: "📢 ¡Nuevo reporte comunitario recibido!Categoría: 
+{tipo_incidencia}
+ID del caso: #{id_reporte}
+Estado: Pendiente de revisión: Por favor, ingresa al panel administrativo para verificar los detalles 
+y asignar un encargado."
+¿Qué información no debería enviarse por seguridad?
+Para proteger la privacidad de la comunidad, bajo ninguna circunstancia deben incluirse en el mensaje de Telegram: 
+ Datos de identificación personal: Nombres completos, documentos de identidad (cédula o DNI),
+correos electrónicos o números telefónicos de quien reporta.  
+Ubicaciones exactas hiper-específicas: Direcciones residenciales privadas o nomenclaturas exactas 
+(es mejor manejar coordenadas generales o solo el nombre del barrio).
+Credenciales de acceso: Contraseñas, tokens de API o enlaces directos de administración que no requieran login previo. 

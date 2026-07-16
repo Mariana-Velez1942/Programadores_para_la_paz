@@ -1,0 +1,28 @@
+Evento que activa la automatización (Trigger):
+
+El flujo se activa de manera automática mediante un webhook en n8n cada vez que una causa o reporte ciudadano alcanza
+ una meta de 20 apoyos en la base de datos de la plataforma.
+
+Mensaje que se envía a Telegram:
+
+¡Alerta de Prioridad Comunitaria!
+
+La causa "#{id_causa} - {titulo}" ha alcanzado el umbral de apoyos requeridos.
+
+Categoría: {categoria}
+
+Apoyos acumulados: {total_apoyos} vecinos.
+
+Estado: Lista para revisión y generación de PDF.
+
+Ingresa al panel de administración para gestionar la petición.
+
+Información que NO debe enviarse por seguridad:
+
+Por políticas de privacidad, en el mensaje enviado al chat de Telegram jamás se debe incluir:
+
+Identificación de los votantes: Nombres de los ciudadanos que apoyaron, sus correos, teléfonos o números de cédula.
+
+Direcciones o ubicaciones exactas de viviendas: Para proteger la seguridad física de los denunciantes.
+
+Comentarios de texto libre: Mensajes directos o quejas que puedan contener datos sensibles o lenguaje inapropiado antes de ser moderados.

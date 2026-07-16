@@ -1,0 +1,19 @@
+Entidad 1: Causa (o Incidencia)
+Nombre de la entidad: Causa
+Campos principales:id_causa (Número único / ID)titulo 
+(Texto corto)tipo (Texto, ej: "Infraestructura", "Ambiente")  
+descripcion (Texto largo)  
+coordenadas_gps (Texto o Latitud/Longitud) 
+estado (Texto, ej: "Pendiente", "En proceso", "Resuelto")
+fecha_creacion (Fecha y hora)  
+Propósito de la información: Registrar de forma estructurada los problemas o iniciativas que reporta la ciudadanía en su entorno. 
+Esto permite categorizarlos correctamente, geolocalizarlos con precisión en el mapa para su atención y rastrear públicamente 
+el avance de su resolución.  
+Entidad 2: ApoyoNombre de la entidad: Apoyo
+Campos principales:id_apoyo (Número único / ID)id_causa (Número / Relación con la causa apoyada)
+id_ciudadano (Número / ID del usuario que apoya)  
+fecha_apoyo (Fecha y hora)
+comentario_adicional (Texto opcional, sin datos personales)  
+Propósito de la información: Cuantificar el respaldo vecinal que recibe cada causa registrada.
+ Sirve para medir el nivel de urgencia o interés colectivo de la comunidad, ayudando a los coordinadores y 
+ autoridades a priorizar los recursos en las problemáticas que afectan a un mayor número de personas.

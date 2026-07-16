@@ -1,0 +1,8 @@
+Una base de datos es el cimiento indispensable para almacenar, estructurar y consultar el histórico de reportes y propuestas vecinales.
+La autenticación de usuarios asegura que la participación provenga de ciudadanos reales, evitando bots y la duplicación de votos.
+Esto da legitimidad a los procesos democráticos, garantizando que cada opinión o apoyo tenga un respaldo real en la comunidad.
+Por último, la protección de la información blinda el sistema contra filtraciones de datos sensibles como correos o ubicaciones de denuncias.
+Mantener esta privacidad previene represalias o acoso, asegurando un entorno libre donde las personas se sientan seguras al expresarse.
+Al unir un almacenamiento robusto, un login confiable y seguridad de datos, se evita el caos operativo y la manipulación externa.
+Estos tres componentes no son opcionales; son el núcleo técnico que sostiene la transparencia, la seguridad y el flujo del proyecto.
+En definitiva, proteger la infraestructura tecnológica es la única vía real para construir y sostener la confianza ciudadana a largo plazo.

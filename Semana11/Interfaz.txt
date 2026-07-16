@@ -1,0 +1,10 @@
+Esta interfaz está diseñada para ser limpia, intuitiva y directa, facilitando la interacción de la
+ comunidad a través de dos secciones principales.
+
+En la parte superior o lateral, el usuario interactúa con el Formulario de Registro, 
+ingresando el título, la categoría y la descripción de su problemática; al pulsar el botón de publicación,
+la causa se envía al servidor y se renderiza al instante. Debajo de este panel se despliega la Vista de Causas, 
+una colección de tarjetas visuales que muestran cronológicamente todos los reportes activos del barrio. 
+ Cada tarjeta cuenta con su propio Contador de Apoyos en tiempo real y un Botón para Apoyar, el cual,
+al ser presionado por un vecino, suma de inmediato un voto, cambia de color para dar confirmación visual y 
+se deshabilita para evitar que la misma persona vote dos veces.

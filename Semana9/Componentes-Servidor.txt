@@ -1,0 +1,19 @@
+*Sistema operativo*
+Es el software principal que gestiona el hardware de la computadora y permite que otros programas se ejecuten.
+Actúa como intermediario entre el usuario, las aplicaciones de desarrollo y los recursos físicos de la máquina.
+
+*Node.js*
+Es un entorno de ejecución que permite ejecutar código JavaScript en el lado del servidor, fuera del navegador web.
+Se utiliza principalmente para construir herramientas de desarrollo backend y aplicaciones de red rápidas y escalables.
+
+*Aplicación server.js*
+Es el archivo de código principal de tu proyecto donde se configura la lógica del backend, las rutas y el inicio del servidor.
+Se encarga de recibir las peticiones de los usuarios (como acceder a la ruta `/estado`) y enviarles la respuesta correspondiente.
+
+*Puerto*
+Es un punto de conexión virtual o "puerta de enlace" numérica que utiliza el sistema para dirigir el tráfico de red específico.
+Permite que tu servidor local (por ejemplo, en el puerto `3000`) reciba y responda peticiones sin interferir con otros programas de la computadora.
+
+*Logs*
+Son registros de texto que documentan cronológicamente los eventos, peticiones de usuarios y errores ocurridos en el sistema.
+Funcionan como un historial de actividad indispensable para que el desarrollador pueda monitorear el servidor y solucionar problemas.

@@ -1,0 +1,42 @@
+1. Prioridad Alta (Funciones Esenciales / MVP)
+Historia 1: Registro de incidentes (Ciudadano)
+
+Como ciudadano
+
+quiero registrar una incidencia en mi barrio adjuntando fotos y ubicación exacta
+
+para dejar evidencia pública del problema y que sea visible para todos.
+
+Historia 2: Alertas automáticas (Veedor/Coordinador)
+
+Como veedor comunitario
+
+quiero recibir una alerta en mi celular cada vez que se registre un nuevo caso en mi zona
+
+para reaccionar rápido y coordinar la verificación del reporte.
+
+2. Prioridad Media (Transparencia y Gestión)
+Historia 3: Consulta de estados (Ciudadano)
+
+Como ciudadano
+
+quiero consultar el estado de actualización de mi reporte (ej: "Recibido", "En proceso", "Solucionado")
+
+para hacer seguimiento real a la gestión de las autoridades.
+
+Historia 4: Exportación de reportes (Coordinador)
+
+Como coordinador de veeduría
+
+quiero exportar un informe mensual con el resumen de incidencias y tiempos de respuesta
+
+para presentarlo como prueba en las mesas de diálogo y rendición de cuentas con la alcaldía.
+
+3. Prioridad Baja (Interacción y Comunidad)
+Historia 5: Apoyo social (Vecino)
+
+Como vecino del sector
+
+quiero "votar" o apoyar el reporte que hizo otro ciudadano en mi misma calle
+
+para visibilizar de manera colectiva cuáles son las problemáticas más urgentes del barrio.
